@@ -5,4 +5,4 @@
 
 hi guys im meka/rumia/forge and the only thing im telling for yall is aabout the whole README bio: its still on wip on ANOTHER repository cuz doing changes here is crazy!
 
-i love all my friends equally!!!!
+epic note: i love all my friends equally!!!!
