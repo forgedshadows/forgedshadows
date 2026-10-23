@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/knittedknight" target="_blank">knittedknight</a> <a href="https://github.com/Draco-Marco" target="_blank">Draco-Marco</a> <a href="https://github.com/bullet4myvalentinee" target="_blank">bullet4myvalentinee</a> <a href="https://github.com/CherrieJam" target="_blank">CherrieJam</a> <a href="https://github.com/body-company" target="_blank">body-company</a>
+  <a href="https://github.com/knittedknight" target="_blank">knittedknight</a> <a href="https://github.com/Draco-Marco" target="_blank">Draco-Marco</a> <a href="https://github.com/bullet4myvalentinee" target="_blank">bullet4myvalentinee</a> <a href="https://github.com/CherrieJam" target="_blank">CherrieJam</a> <a href="https://github.com/body-company" target="_blank">body-company</a> <a href="https://github.com/CosmeticStar" target="_blank">CosmeticStar</a>
 </div>
 
 <div align="center">
