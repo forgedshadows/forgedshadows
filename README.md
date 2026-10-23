@@ -4,5 +4,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/knittedknight" target="_blank">knittedknight</a> happy now
+  
+**friend shoutouts!**
+</div>
+
+<div align="center">
+  <a href="https://github.com/knittedknight" target="_blank">knittedknight</a> <a href="https://github.com/Draco-Marco" target="_blank">Draco-Marco</a>
 </div>
