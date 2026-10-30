@@ -5,7 +5,17 @@
 
 <div align="center">
   
-**friend shoutouts!**
+**my important people**
+</div>
+
+<div align="center">
+  <a href="https://github.com/volescube" target="_blank">volescube</a> pawjinx <a href="https://github.com/fallenssoul" target="_blank">fallenssoul</a> <a href="https://github.com/HeadlessDemiurge" target="_blank">HeadlessDemiurge</a> <a href="https://github.com/mirashiny" target="_blank">mirashiny</a> gabesfoolish
+</div>
+
+<div align="center">
+
+**friends!**
+
 </div>
 
 <div align="center">
