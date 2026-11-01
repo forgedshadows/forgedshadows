@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ♡ [@volescube](https://github.com/volescube) pawjinx [fallenssoul](https://github.com/fallenssoul) [rainedscythe](https://github.com/rainedscythe) [HeadlessDemiurge](https://github.com/HeadlessDemiurge) [mirashiny](https://github.com/mirashiny) gabesfoolish ♡
+  ♡ [volescube](https://github.com/volescube) pawjinx [fallenssoul](https://github.com/fallenssoul) [rainedscythe](https://github.com/rainedscythe) [HeadlessDemiurge](https://github.com/HeadlessDemiurge) [mirashiny](https://github.com/mirashiny) gabesfoolish ♡
 </div>
 
 
