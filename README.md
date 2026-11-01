@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  [knittedknight](https://github.com/knittedknight) [Draco-Marco](https://github.com/Draco-Marco) [bullet4myvalentinee](https://github.com/bullet4myvalentinee) [CherrieJam](https://github.com/CherrieJam) [body-company](https://github.com/body-company) [CosmeticStar](https://github.com/CosmeticStar) [optimus-pax](https://github.com/optimus-pax) [GreenBalloonPHIGHTING](https://github.com/GreenBalloonPHIGHTING) [DWN-Infinity](https://github.com/DWN-Infinity) [carkali](https://github.com/carkali) [CrystalCarnivore](https://github.com/CrystalCarnivore) [AmysBakingShow](https://github.com/AmysBakingShow)
+  [knittedknight](https://github.com/knittedknight) [Draco-Marco](https://github.com/Draco-Marco) [bullet4myvalentinee](https://github.com/bullet4myvalentinee) [CherrieJam](https://github.com/CherrieJam) [body-company](https://github.com/body-company) [CosmeticStar](https://github.com/CosmeticStar) [optimus-pax](https://github.com/optimus-pax) [GreenBalloonPHIGHTING](https://github.com/GreenBalloonPHIGHTING) [DWN-Infinity](https://github.com/DWN-Infinity) [carkali](https://github.com/carkali) [CrystalCarnivore](https://github.com/CrystalCarnivore) (update your git, tori) [AmysBakingShow](https://github.com/AmysBakingShow) [KilometerPROWLER](https://github.com/KilometerPROWLER)
 </div>
 
 <div align="center">
