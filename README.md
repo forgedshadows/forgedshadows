@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  **my important people**
+  **forever in my heart...**
 </div>
 
 <div align="center">
@@ -13,7 +13,9 @@
   ♡ [volescube](https://github.com/volescube) pawjinx [fallenssoul](https://github.com/fallenssoul) [rainedscythe](https://github.com/rainedscythe) [HeadlessDemiurge](https://github.com/HeadlessDemiurge) [mirashiny](https://github.com/mirashiny) gabesfoolish ♡
 </div>
 
-
+<div align="center">
+ 
+**FREQUENT FRIENDS + MENTIONED BY:**
 
 <div align="center">
   
@@ -22,5 +24,5 @@
 
 <div align="center">
 
-  ```more to be added...```
+  ```this is a wip lmao, i still have to learn how to make read.mes```
 </div>
