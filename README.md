@@ -24,5 +24,5 @@
 
 <div align="center">
 
-  ```this is a wip lmao, i still have to learn how to make read.mes```
+  ```note: this pfp is ass because its in LOW QUALITY```
 </div>
