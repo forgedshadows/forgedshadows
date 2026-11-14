@@ -24,5 +24,5 @@
 
 <div align="center">
 
-  ```note: this pfp is ass because its in LOW QUALITY```
+  ```semi-active, im more on discord```
 </div>
