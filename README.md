@@ -5,12 +5,12 @@
 
 <div align="center">
 
-  **forever in my heart...**
+  **( ˶˘ ³˘(ˊᗜˋ\*) ♡ [fallenssoul](https://github.com/fallenssoul), my darling.**
 </div>
 
 <div align="center">
   
-  ♡ [volescube](https://github.com/volescube) pawjinx [fallenssoul](https://github.com/fallenssoul) [HeadlessDemiurge](https://github.com/HeadlessDemiurge) [mirashiny](https://github.com/mirashiny) gabesfoolish ♡
+  ☆ [HeadlessDemiurge](https://github.com/HeadlessDemiurge) [mirashiny](https://github.com/mirashiny) ⁠☆
 </div>
 
 <div align="center">
